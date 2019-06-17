@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    margin-left: 500px;
+    color: white;
+}
+
+h2{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: white;
+}
+
+.para{
+    float: left;
+    margin-left: 100px;
+    color: white;
+    
+}

@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    float: left;
+    
+    
+}
+
+h1{
+   float: center;
+    margin-left: 500px;
+}
+
+.img{
+    float: left;
+    margin-top: 100px;
+    margin-left: 20px;
+}

@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    float: left;
+    color: red;
+    
+}
+
+h1{
+    float: left;
+    margin-left: 500px;
+    color: black;
+    
+}
+
+.brands-1{
+    margin-left: 200px;
+    color: white;
+    margin-top: 100px;
+    
+}
+
+.brands-2{
+    margin-left: 600px;
+    color: #f60bff;
+    margin-top: -700px;
+}
+
+.brands-3{
+    margin-left: 900px;
+    color: white;
+    margin-top: -700px;
+}
